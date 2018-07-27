@@ -13,7 +13,7 @@ I love technology. Things I have done would be tiny to the society, but great to
 
  
 
-Currently, I have a position at following startups:
+## Currently, I have a position at following startups:
 
 **Nanjing Xuduo Food & Beverage Management Co., Ltd.** - Algorithm Engineer
 
